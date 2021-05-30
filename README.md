@@ -57,6 +57,7 @@ What to learn to fly?
 * FAA (aka The Federal Aviation Administration) resources:
   * ⭐[FAA - Pilot’s Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/) - The holy book of knowledge that most student pilots in the US will become intimately familiar with.
   * [FAA - Aviation Handbooks & Manuals](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/)
+* [SKYbrary](https://www.skybrary.aero/) - Initiated by EUROCONTROL, explains many concepts of aviation safety
 * ⭐[PilotWorkshops - Online Pilot Proficiency Training](https://pilotworkshop.com)
   * [Real World VFR](https://pilotworkshop.com/products/real-world-vfr/) - Fantastic edutainment.
   * [Pilot Workshop Weekly Tips](https://pilotworkshop.com/tips)
