@@ -120,6 +120,7 @@ An interesting intersection of aviation and technology for someone who likes to 
 * [Fly A Jet](https://flyajet.co.nz/) - One of the authors had an excellent experience with them in NZ.
 
 ## Personal Flight Simulators
+* [Flightgear](https://www.flightgear.org/) - An open source flight simulator
 * [X-Plane](https://www.x-plane.com) - A good option for getting started.
 * [Microsoft Flight Simulator](https://www.flightsimulator.com/) - A new 2020 version is under development and the demo of the scenery look amazing.
 
