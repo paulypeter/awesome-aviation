@@ -84,9 +84,12 @@ What to learn to fly?
 Weather is listed here as its an important component of planning.  If this list grows, it can be expanded out.
 * [1800wxbrief Flight Services Interactive Map](https://www.1800wxbrief.com/Website/interactiveMap)
 * [Avia Weather](https://play.google.com/store/apps/details?id=com.mytowntonight.aviationweather)
-* ⭐[SkyVector: Flight Planning / Aeronautical Charts](https://skyvector.com/)
 * ⭐[ForeFlight - Integrated Flight App for Pilots](https://foreflight.com/) ($$)
 * [Global map of wind, weather, and ocean conditions](https://earth.nullschool.net/#current/wind/surface/level/overlay=temp/grid=on/orthographic=-120.54,37.86,3000/loc=-122.419,37.696)
+
+## Aeronautical Charts
+* [Avia Maps](https://play.google.com/store/apps/details?id=com.mytowntonight.aviamap)
+* ⭐[SkyVector: Flight Planning / Aeronautical Charts](https://skyvector.com/)
 
 # Airplanes
 
